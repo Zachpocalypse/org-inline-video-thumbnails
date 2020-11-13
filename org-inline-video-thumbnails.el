@@ -1,7 +1,6 @@
 ;;; org-inline-video-thumbnails.el --- Load video as inline images -*- lexical-binding: t -*-
 
-;; Authors: Kisaragi Hiu <mail@kisaragi-hiu.com>
-;; URL: https://kisaragi-hiu.com/projects/org-inline-video-thumbnails
+;; Authors: Zachary Trant <ztrant@gmail.com>
 ;; Version: 1.0.0
 ;; Keywords: org convenience hypermedia
 
