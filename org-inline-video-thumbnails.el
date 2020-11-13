@@ -3,7 +3,6 @@
 ;; Authors: Kisaragi Hiu <mail@kisaragi-hiu.com>
 ;; URL: https://kisaragi-hiu.com/projects/org-inline-video-thumbnails
 ;; Version: 1.0.0
-;; Package-Requires: ((emacs "27.1"))
 ;; Keywords: org convenience hypermedia
 
 ;;; Commentary:
